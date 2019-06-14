@@ -1,0 +1,12 @@
+Witam!
+Do zaliczenia robi³em sklep ze s³odyczami.
+W node mam backend 
+a w Angularze:
+1. Logowanie usera (z node dostajemy token)
+2. rejestracja nowego usera
+3. Lista userów
+4. Lista produktów - klikajac na element mamy szczegó³y wraz ze zdjêciem
+
+5. z koszykiem ugrz¹z³em i zabrak³o czasu.
+
+28,29
